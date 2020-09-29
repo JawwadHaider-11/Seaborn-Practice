@@ -3,7 +3,7 @@
 In this repository i have practiced data visualization with a beautifull pythons' data visualization library seaborn.
 
 In first jupyter notebook i have covered various Distribution plots namely:
-!. sns.distplot
+1. sns.distplot
 2. sns.jointplot
 3. sns.pairplot
 4. sns.rugplot
