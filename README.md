@@ -23,7 +23,7 @@ In third part of this repository i have practiced some of the matrix plot for vi
 2. sns.clustermap
 
 In the fourth part (Grids and Regression plots and styles) i have practiced some of the Grids and regression plots for data visualisation:
-1, sns.PairGrid
+1. sns.PairGrid
 2. sns.FacetGrid
 3. sns.lmplot
 also some of the stylings for plots
